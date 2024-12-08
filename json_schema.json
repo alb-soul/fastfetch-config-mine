@@ -710,7 +710,7 @@
               "opengl",
               "os",
               "packages",
-              "physicaldisk",
+              "physical",
               "physicalmemory",
               "player",
               "poweradapter",
@@ -1409,9 +1409,9 @@
                 }
               },
               {
-                "title": "Disk",
+                "title": "",
                 "type": "object",
-                "additionalProperties": false,
+                "additionalProperties": true,
                 "properties": {
                   "type": {
                     "description": "Print partitions, space usage, disk type, etc",
