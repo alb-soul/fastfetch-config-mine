@@ -1409,7 +1409,7 @@
                 }
               },
               {
-                "title": "",
+                "title": "disk",
                 "type": "object",
                 "additionalProperties": true,
                 "properties": {
