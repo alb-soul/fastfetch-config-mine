@@ -710,7 +710,7 @@
               "opengl",
               "os",
               "packages",
-              "physical",
+              "physicaldisk",
               "physicalmemory",
               "player",
               "poweradapter",
@@ -1409,7 +1409,7 @@
                 }
               },
               {
-                "title": "disk",
+                "title": "Disk",
                 "type": "object",
                 "additionalProperties": true,
                 "properties": {
